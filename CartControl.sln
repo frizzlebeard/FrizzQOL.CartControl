@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartControl", "CartControl\CartControl.csproj", "{91D1B71E-3773-4E53-9575-F1AA3E3338DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartControl.Tests", "CartControl.Tests\CartControl.Tests.csproj", "{11AD9BB6-6D1D-4A2C-BA90-C888D7AD0159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D1B71E-3773-4E53-9575-F1AA3E3338DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D1B71E-3773-4E53-9575-F1AA3E3338DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D1B71E-3773-4E53-9575-F1AA3E3338DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D1B71E-3773-4E53-9575-F1AA3E3338DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AD9BB6-6D1D-4A2C-BA90-C888D7AD0159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AD9BB6-6D1D-4A2C-BA90-C888D7AD0159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AD9BB6-6D1D-4A2C-BA90-C888D7AD0159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AD9BB6-6D1D-4A2C-BA90-C888D7AD0159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
