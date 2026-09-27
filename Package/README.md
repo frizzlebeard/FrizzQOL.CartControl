@@ -24,6 +24,10 @@ The first launch writes one section per cart, using that cart's normal size and 
 
 Install this on the dedicated server and on every client. Use the same config on each of them.
 
+## Source
+
+https://github.com/frizzlebeard/FrizzQOL.CartControl
+
 ## Install
 
 Install with r2modman or the Thunderstore Mod Manager.
